@@ -6,6 +6,6 @@ body {
 }
 </style>
 <body>
-<h2>Ofek Application ! !</h2>
+<h2>Ofek Applicationnnn</h2>
 </body>
 </html>
